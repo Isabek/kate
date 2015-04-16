@@ -1,0 +1,13 @@
+{
+  "name": "kate",
+  "version": "0.0.1",
+  "author": "Isabek <isabek2309@gmail.com>",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Isabek/kate.git"
+  }
+}
